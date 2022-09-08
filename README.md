@@ -14,7 +14,7 @@ This game is created with the help of modules like random module and replit modu
 * Cards are not removed from the deck as they are drawn.
 
 # How to run
-The game is really simple. Essentially we're trying to get as close to 21 as possible and all of the cards which have a Jack, a Queen, or a King count as 10.
+In this game we're trying to get as close to 21 as possible and all of the cards which have a Jack, a Queen, or a King count as 10.
 As soon as game starts it wil ask if yiu want to play game or not. If yes it wil generate logo, two cards of user, its score and one card of computer. To continue with the third card type y or else n. 
 
 It will compare user cards with Computer's card, whosoever's score is near to 21 will win.
